@@ -1,0 +1,4 @@
+1.Add a search bar  - optional
+2.Add a edit profile page - optional
+3.Sort by created and liked posts and most liked - optional
+4. remember me cookie - optional
